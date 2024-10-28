@@ -25,7 +25,9 @@ pilaMarcial.push(230);
 pilaMarcial.push(10);
 pilaMarcial.push(160);
 
-        JOptionPane.showMessageDialog(null, "es:\n"+ pilaMarcial);
+        JOptionPane.showMessageDialog(null, "Datos de la pila orenada es:\n"+ pilaMarcial);
+        JOptionPane.showMessageDialog(null, "Autor:Marcial");
+        
         
     }
     
